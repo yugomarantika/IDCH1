@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "idchapp",
-    "slug": "idchapp",
+    "name": "IDCH-App",
+    "slug": "IDCH-App",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
